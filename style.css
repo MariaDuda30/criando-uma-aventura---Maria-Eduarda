@@ -2,7 +2,7 @@ body{
     background-color: #1d4221;
     color:white;
     font-family: font-family;"Cabin", sans-serif;
-    displey:flex;
+    display:flex;
     justify-content:center;
     align-items:center;
     height: 700px;
