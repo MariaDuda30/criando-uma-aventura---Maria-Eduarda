@@ -1,7 +1,9 @@
 body{
     background-color: #1d4221;
     color:white;
-    font-family: font-family: "Cabin", sans-serif;
+    font-family: font-family;"Cabin", sans-serif;
     displey:flex;
     justfy-content:center;
+    align-items:center;
+    height: 700px;
 }
